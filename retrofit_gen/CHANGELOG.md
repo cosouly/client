@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.8.10
+
++ Updated `auth_header` dependency
+
+## 2.8.9
+
++ `FormFieldBody` bug fix
+
+## 2.8.8
+
++ Upgraded `analyzer` package
+
 ## 2.6.4
 
 + Implemented `AsBodyString` annotation
